@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="style.css" />
-    <title>Portfólio Professor Carlos</title>
+    <title>Portfólio Aluno Guilherme</title>
     <style>
         /* Ajuste para as imagens dentro dos modais 2 e 3 */
         #modal2 .modal-body img,
@@ -22,24 +22,21 @@
 
 <body>
     <header class="container text-center">
-        <img src="img/avatar-perfil.png" alt="avatar do professor Carlos" class="rounded-circle" width="150" height="150" />
-        <p class="lead">Eu sou o professor Carlos Chessa</p>
-        <h1>Professor de Língua Inglesa, Robótica e Programação</h1>
+        <img src="img/avatar-perfil.png" alt="avatar do aluno guilherme" class="rounded-circle" width="150" height="150" />
+        <p class="lead">Eu sou o aluno guilherme</p>
+        <h1>Aluno do 3°a do ensino medio</h1>
         <p>
-            Atuo na rede pública do Estado de São Paulo, em escola do programa PEI, lecionando Língua Inglesa para turmas do 6º ano do Ensino Fundamental ao 3º ano do Ensino Médio.
-            Ministro também aulas de robótica para o Ensino Médio e programação para o 3º ano do Ensino Médio, com foco em Arduino e micro:bit.
+            estudo na escola pública do Estado de São Paulo, em são caetano do sul, na escola joana motta
+            estou apreendendo dentero da aula de programação com foco em Arduino e micro:bit.
         </p>
         <p>
-            Sou Tecnólogo em Análise e Desenvolvimento de Sistemas (UNICID), com formação pedagógica para não licenciados em Letras – Inglês.
-            Tenho experiência profissional em projetos de TI para saúde e busco constantemente aprimorar minhas aulas explorando conexões interdisciplinares.
+           Tenho pouca experiencia dentro da programação conhecendo apenas alguns comandos e formas basicas
         </p>
         <p>Minhas habilidades</p>
         <div>
-            <p class="badge bg-secondary">Inglês Avançado</p>
-            <p class="badge bg-secondary">HTML e CSS</p>
-            <p class="badge bg-secondary">JavaScript</p>
-            <p class="badge bg-secondary">Arduino</p>
-            <p class="badge bg-secondary">Micro:bit</p>
+            <p class="badge bg-secondary">Inglês basico</p>
+            <p class="badge bg-secondary">HTML e CSS basico</p>
+            <p class="badge bg-secondary">JavaScript basico</p>
         </div>
     </header>
 
@@ -173,9 +170,9 @@
     <footer class="container py-5 text-center">
         <h2>Entre em contato</h2>
         <div>
-            <a href="mailto:carloschessa@prof.educacao.sp.gov.br">carloschessa@prof.educacao.sp.gov.br</a>
+            <a href="mailto:00001093824736sp@al.educacao.sp.gov.br">00001093824736sp@al.educacao.sp.gov.br</a>
         </div>
-        <p class="my-5">© 2025. Produzido por professor Carlos.</p>
+        <p class="my-5">© 2025. Produzido por aluno guilherme.</p>
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
