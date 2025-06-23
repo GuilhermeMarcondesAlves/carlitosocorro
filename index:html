@@ -27,7 +27,7 @@
         <h1>Aluno do 3°a do ensino medio</h1>
         <p>
             estudo na escola pública do Estado de São Paulo, em são caetano do sul, na escola joana motta
-            estou apreendendo dentero da aula de programação com foco em Arduino e micro:bit.
+            estou aprendendo dentero da aula de programação com foco em Arduino e micro:bit.
         </p>
         <p>
            Tenho pouca experiencia dentro da programação conhecendo apenas alguns comandos e formas basicas
@@ -48,14 +48,14 @@
                 <div class="card">
                     <img src="img/projeto-1.png" class="card-img-top" alt="Imagem do projeto AthleTogether" />
                     <div class="card-body">
-                        <h5 class="card-title">AthleTogether – Esporte e Inglês</h5>
+                        <h5 class="card-title">O poder dos Alimentos - alimentação saudavél</h5>
                         <p class="card-text">
-                            Na Eletiva AthleTogether, você vai conhecer esportes de cinco continentes onde o inglês é falado:
+                            Na Eletiva O Poder dos Alimentos você aprendera os benefícios dos alimentos como:
                         </p>
                         <ul>
-                            <li>Américas: basquete (EUA) e hóquei (Canadá)</li>
-                            <li>Europa: futebol (Inglaterra) e boxe (Irlanda do Norte)</li>
-                            <li>África: atletismo (África do Sul e Quênia)</li>
+                            <li>Potássio: frutas, vegetais (essencial para contração dos musculos e ajuda a equilibrar os efeitos do sódio)</li>
+                            <li>Ferro: carnes vermelhas, leguminosas (essencial para transporte de oxigenio no corpo e produção de hemoglobina)</li>
+                            <li>Cálcio: vegetais, leguminosas ( cálcio e essencial para a reconstrução dos ossos)</li>
                         </ul>
                         <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="#modal1">
                             Veja o projeto
