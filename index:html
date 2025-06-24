@@ -23,7 +23,7 @@
 <body>
     <header class="container text-center">
         <img src="img/avatar-perfil.png" alt="avatar do aluno guilherme" class="rounded-circle" width="150" height="150" />
-        <p class="lead">Eu sou o aluno guilheme</p>
+        <p class="lead">Eu sou o aluno guilher    me</p>
         <h1>Aluno do 3°a do ensino medio</h1>
         <p>
             estudo na escola pública do Estado de São Paulo, em são caetano do sul, na escola joana motta
