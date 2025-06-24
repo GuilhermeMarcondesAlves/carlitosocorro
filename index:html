@@ -23,7 +23,7 @@
 <body>
     <header class="container text-center">
         <img src="img/avatar-perfil.png" alt="avatar do aluno guilherme" class="rounded-circle" width="150" height="150" />
-        <p class="lead">Eu sou o aluno guilher    me</p>
+        <p class="lead">Eu sou o aluno guilherme</p>
         <h1>Aluno do 3°a do ensino medio</h1>
         <p>
             estudo na escola pública do Estado de São Paulo, em são caetano do sul, na escola joana motta
@@ -34,9 +34,9 @@
         </p>
         <p>Minhas habilidades</p>
         <div>
-            <p class="badge bg-secondary">Inglês basico</p>
-            <p class="badge bg-secondary">HTML e CSS basico</p>
-            <p class="badge bg-secondary">JavaScript basico</p>
+            <p class="badge bg-secondary">Inglês básico</p>
+            <p class="badge bg-secondary">HTML e CSS básico</p>
+            <p class="badge bg-secondary">JavaScript básico</p>
         </div>
     </header>
 
@@ -103,15 +103,15 @@
         <div class="modal-dialog">
             <div class="modal-content text-dark">
                 <div class="modal-header">
-                    <h5 class="modal-title">AthleTogether – Esporte e Inglês</h5>
+                    <h5 class="modal-title">O Poder Da Alimentação – Alimentação Saudavél</h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
                 </div>
                 <div class="modal-body">
                     <p>
-                            Com o prof. de Educação Física ensinando regras e prática, e o prof. de Inglês ensinando vocabulário, ações e equipamentos. Explore ainda carreiras do mundo esportivo que exigem inglês, como árbitros, treinadores e fisioterapeutas.
+                            Com a prof. de Quimica Aplicada, ensinando os benefícios e malefícios dos nutrientes e cuidados que devem ser tomados.
                         </p>
                     <p>
-                        Na Eletiva AthleTogether, exploramos esportes de cinco continentes onde o inglês é língua principal. Alunos aprendem regras e vocabulário com os professores de Educação Física e Inglês.
+                        Na Eletiva O Poder Dos Alimentos, exploramos os minerais, fibras, carboitrados e outros, para que possa viver uma vida mais saudá   vel.
                     </p>
                     <img src="img/projeto-1.png" alt="Imagem representativa do projeto de plataforma educacional de inglês" class="img-fluid" />
                 </div>
